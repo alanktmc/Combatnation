@@ -1,0 +1,119 @@
+{
+  "songName": "60BPM Json Name",
+  "version": "1.0",
+  "offset":"-0.5",
+  "noteList": [
+    {
+      "position": "TopLeft",
+      "second": "5.0",
+	  "pressure":"1"
+    },
+    {
+      "position": "TopRight",
+      "second": "6.0"
+    }
+	,
+    {
+      "position": "TopLeft",
+      "second": "7.0"
+    },
+    {
+      "position": "Left",
+      "second": "8.0"
+    },
+    {
+      "position": "Right",
+      "second": "9.0"
+    }
+	,
+    {
+      "position": "Left",
+      "second": "10.0"
+    },
+
+    {
+      "position": "Right",
+      "second": "11.0",
+	  "pressure":"1"
+    },
+
+    {
+      "position": "Left",
+      "second": "12",
+	  "pressure":"1"
+    },
+    {
+      "position": "Middle",
+      "second": "13",
+	  "pressure":"1"
+    }
+	,
+    {
+      "position": "Right",
+      "second": "14.0"
+    },
+
+    {
+      "position": "Left",
+      "second": "15",
+	  "pressure":"1"
+    },
+    {
+      "position": "Middle",
+      "second": "16"
+    }
+	,
+    {
+      "position": "TopLeft",
+      "second": "17",
+	  "pressure":"1"
+    },
+    {
+      "position": "Middle",
+      "second": "18"
+    },
+    {
+      "position": "Left",
+      "second": "19",
+	  "pressure":"1"
+    },
+    {
+      "position": "Right",
+      "second": "20"
+    },
+    {
+      "position": "Middle",
+      "second": "21"
+    },
+    {
+      "position": "TopRight",
+      "second": "22"
+    },
+    {
+      "position": "TopLeft",
+      "second": "23"
+    },
+    {
+      "position": "TopRight",
+      "second": "24",
+	  "pressure":"1"
+    },
+    {
+      "position": "Left",
+      "second": "25"
+    }
+	,
+    {
+      "position": "Right",
+      "second": "26",
+	  "pressure":"1"
+    }
+	,
+    {
+      "position": "Middle",
+      "second": "27"
+    }
+	
+  ]
+
+}

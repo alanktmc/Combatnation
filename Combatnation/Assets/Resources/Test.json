@@ -1,0 +1,71 @@
+{
+  "songName": "JSON Serializer Test",
+  "version": "1.0",
+  "noteList": [
+    {
+      "position": "TopRight",
+      "second": "4.0"
+    },
+    {
+      "position": "TopLeft",
+      "second": "6.0"
+    },
+    {
+      "position": "TopRight",
+      "second": "6.5"
+    }
+	,
+    {
+      "position": "TopLeft",
+      "second": "7.0"
+    },
+    {
+      "position": "Left",
+      "second": "11.0"
+    },
+    {
+      "position": "Right",
+      "second": "11.5"
+    }
+	,
+    {
+      "position": "Left",
+      "second": "12.0"
+    },
+
+    {
+      "position": "Right",
+      "second": "16.0"
+    },
+
+    {
+      "position": "Left",
+      "second": "16.5"
+    },
+    {
+      "position": "Middle",
+      "second": "17"
+    }
+	,
+
+    {
+      "position": "Right",
+      "second": "20.0"
+    },
+
+    {
+      "position": "Left",
+      "second": "20.5"
+    },
+    {
+      "position": "Middle",
+      "second": "21"
+    }
+	,
+    {
+      "position": "TopLeft",
+      "second": "21.5"
+    }
+	
+  ]
+}
